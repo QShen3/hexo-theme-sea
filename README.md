@@ -30,4 +30,5 @@ theme: sea
 
 ## 主题文档
 
-<https://hai-zou.github.io/hexo-theme-sea/theme-config/>
+<https://harveyzo.github.io/hexo-theme-sea/theme-config/>
+
